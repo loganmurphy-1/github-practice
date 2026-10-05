@@ -1,2 +1,7 @@
-# github-practice
-My first GitHub repository
+# My GitHub practice repository
+
+Name: Logan Murphy
+
+Course: Introduction to computer science 
+
+This repository was created using GitHub. 
